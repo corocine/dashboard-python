@@ -50,11 +50,11 @@ Para rodar este dashboard localmente, siga os passos abaixo:
    pip install -r requirements.txt
    ```
 4. **Execute o dashboard:**
-5. ```bash
+
+   ```
    streamlit run app.py
    ```
-
-   O aplicativo será aberto no seu navegador padrão.
+5. O aplicativo será aberto no seu navegador padrão.
 
 ---
 

@@ -56,6 +56,8 @@ Para rodar este dashboard localmente, siga os passos abaixo:
    ```
 5. **O aplicativo será aberto no seu navegador padrão.**
 
+---
+
 ### 📝 Notas do Desenvolvedor
 
 Agradeço à Alura pela Imersão de Dados e pelo material de apoio. Este projeto é um exemplo prático de como transformar dados brutos em insights valiosos usando ferramentas de código aberto.

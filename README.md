@@ -35,7 +35,7 @@ Para rodar este dashboard localmente, siga os passos abaixo:
 1. **Clone o repositório:**
 
    ```bash
-   git clone [https://github.com/corocine/dashboard-python.git](https://github.com/corocine/dashboard-python.git)
+   git clone https://github.com/corocine/dashboard-python.git
    cd dashboard-python
    ```
 2. **Crie e ative um ambiente virtual (recomendado):**
@@ -54,9 +54,7 @@ Para rodar este dashboard localmente, siga os passos abaixo:
    ```
    streamlit run app.py
    ```
-5. O aplicativo será aberto no seu navegador padrão.
-
----
+5. **O aplicativo será aberto no seu navegador padrão.**
 
 ### 📝 Notas do Desenvolvedor
 
